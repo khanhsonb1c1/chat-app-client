@@ -1,0 +1,76 @@
+* {
+    font-size: 16px;
+}
+
+// .chat-app {
+//     min-height: 100vh;  
+// }
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    overflow: hidden;
+}
+
+
+.badge {
+    border-radius: 0.5em;
+}
+
+.color-blue-1 {
+    color: #91caff;
+}
+
+.color-blue-2 {
+    color: #4096ff;
+}
+
+.color-white {
+    color: #fff;
+}
+
+.color-black {
+    color: #000;
+}
+
+
+
+.bg-blue-1 {
+    background-color: #91caff;
+}
+.bg-blue-2 {
+    background-color: #4096ff;
+}
+.bg-blue-3 {
+    background-color: #1677ff;
+}
+
+
+
+
+.border {
+    border: 1px solid #d9d9d9;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #d9d9d9;
+}
+
+.flex-start {
+    justify-content: flex-start;
+}
+
+.flex-end {
+    justify-content: flex-end;
+}
+
+
+
+.mt-3 {
+    margin-top: 1.5rem;
+}
+
+.ms-2 {
+    margin-left: 1rem;
+}
